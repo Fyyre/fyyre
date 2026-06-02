@@ -18,7 +18,7 @@ Bridging the gap between low-level operating system internals and advanced behav
 ---
 
 ### Research & Publications
-*   **[Thinking Like a Reverser About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Research exploring internal model signals, activations, and epistemic stability.
+*   **[Thinking Like a Reverser About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
 
 ---
 
