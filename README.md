@@ -13,7 +13,7 @@ I operate at the intersection of hardware constraints, operating system security
 
 ### Collaborative & Historical Projects
 *   **[UPGDSED](https://github.com/hfiref0x/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
-*   **[DrvMon](https://github.com/Fyyre/Drvmon)** — Advanced real-time kernel-mode driver monitoring utility.
+*   **[DrvMon](https://github.com/Fyyre/Drvmon)** — Advanced real-time kernel-mode driver monitoring utility (Created with [@hfiref0x](https://github.com/hfiref0x)).
 
 ---
 
