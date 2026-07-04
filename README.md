@@ -17,6 +17,9 @@ I operate at the intersection of hardware constraints, operating system security
 
 ---
 
+### Simple Solutions
+*   **[Poor Man's FROST Defense](https://github.com/Fyyre/simple_frost_mitigation)** — Chrome OPFS RAM Mitigation.
+
 ### Research & Publications
 *   **[Thinking Like a Reverser About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
 *   **[NOESIS: Phase I](https://zenodo.org/records/17917279) - On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth**
