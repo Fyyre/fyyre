@@ -17,6 +17,11 @@ I operate at the intersection of hardware constraints, operating system security
 
 ---
 
+### AI/ML
+*   **[Noesis Tension](https://github.com/Fyyre/noesis-tension)** — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
+
+---
+
 ### Simple Solutions
 *   **[Poor Man's FROST Defense](https://github.com/Fyyre/simple_frost_mitigation)** — Chrome OPFS RAM Mitigation.
 
