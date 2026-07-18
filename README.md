@@ -15,7 +15,7 @@ Principal Systems Architect & Independent Researcher specializing in Windows ker
 *   **[DrvMon](https://github.com/Fyyre/Drvmon)** — Advanced real-time kernel-mode driver monitoring utility (Created with [@hfiref0x](https://github.com/hfiref0x)).
 ---
 
-### AI/ML
+### AI Observability
 *   **[Noesis Tension](https://github.com/Fyyre/noesis-tension)** — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
 ---
 
