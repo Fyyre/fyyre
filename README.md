@@ -25,7 +25,7 @@ Principal Systems Architect & Independent Researcher specializing in Windows ker
 ---
 
 ### Research & Publications
-*   **[Thinking Like a Reverser About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
+*   **[Thinking Like a Reverse Engineer About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
 *   **[NOESIS: Phase I](https://zenodo.org/records/17917279) — On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth**
 *   **[NOESIS: Phase II](https://zenodo.org/records/18141914) — From Ontology to Observability: An Architecture for Epistemic Regime Detection**
 *   **[NOESIS Tension](https://zenodo.org/records/19457642) — Telemetry-Driven Taxonomy of Prompt-Induced Representational Pressures in Large Language Models**
