@@ -1,14 +1,14 @@
 # James (Fyyre)
-# Principal Systems Architect
+# Kernel & Reverse Engineering Researcher
 
-Principal Systems Architect & Independent Researcher specializing in Windows kernel internals, low-level security, and telemetry-driven AI observability.
+Principal Security Engineer & Low-Level Researcher specializing in Windows kernel internals, reverse engineering, binary analysis, and anti-tamper mechanics.
 
 ---
 
 ### Core Focus Areas
-*   **Windows kernel architecture, WDM/KMDF driver development, x86_64 assembly, and bootloader patching.**
-*   **Engineering high-frequency, real-time ML pipelines (Python/PyTorch) to analyze internal system signals and flag adversarial behavior at runtime.**
----
+*   **Windows Kernel Internals & Drivers:** WDM/KMDF driver development, PatchGuard/DSE subversion analysis, bootloader mechanics, and kernel-mode execution guarding.
+*   **Reverse Engineering & Binary Analysis:** Static/dynamic analysis (WinDbg, IDA Pro), x86_64/ARM64 assembly, symbol resolution, and binary patching/unpacking[cite: 1].
+*   **Anti-Tamper & Subversion Mechanisms:** Analyzing and designing runtime execution isolation, inline hooking detection, anti-debugging, and memory integrity verification[cite: 1].
 
 ### Collaborative Projects
 *   **[UPGDSED](https://github.com/hfiref0x/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
@@ -41,4 +41,4 @@ Principal Systems Architect & Independent Researcher specializing in Windows ker
 ### Connect
 *   **Email:** fyyre [at] fyyre [dot] net
 *   **Security:** [PGP Key](https://gist.github.com/Fyyre/026832c098316b6a9a29352a4e022895)
-*   *Open to serious technical collaborations in Windows Internals, low-level systems engineering, and forensic AI telemetry.*
+*   *Open to serious technical collaborations in Windows Internals and reverse code engineering.*
