@@ -7,8 +7,8 @@ Principal Security Engineer & Low-Level Researcher specializing in Windows kerne
 
 ### Core Focus Areas
 *   **Windows Kernel Internals & Drivers:** WDM/KMDF driver development, PatchGuard/DSE subversion analysis, bootloader mechanics, and kernel-mode execution guarding.
-*   **Reverse Engineering & Binary Analysis:** Static/dynamic analysis (WinDbg, IDA Pro), x86_64/ARM64 assembly, symbol resolution, and binary patching/unpacking[cite: 1].
-*   **Anti-Tamper & Subversion Mechanisms:** Analyzing and designing runtime execution isolation, inline hooking detection, anti-debugging, and memory integrity verification[cite: 1].
+*   **Reverse Engineering & Binary Analysis:** Static/dynamic analysis (WinDbg, IDA Pro), x86_64/ARM64 assembly, symbol resolution, and binary patching/unpacking.
+*   **Anti-Tamper & Subversion Mechanisms:** Analyzing and designing runtime execution isolation, inline hooking detection, anti-debugging, and memory integrity verification.
 
 ### Collaborative Projects
 *   **[UPGDSED](https://github.com/hfiref0x/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
