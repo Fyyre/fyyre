@@ -22,6 +22,7 @@ Principal Security Engineer & Low-Level Researcher specializing in Windows kerne
 ### Misc / Utilities
 *   **[Poor Man's FROST Defense](https://github.com/Fyyre/simple_frost_mitigation)** — Chrome OPFS RAM Mitigation.
 *   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64 / VEX / EVEX / XOP instruction length disassembler (maintenance port).
+*   **[UEFind](https://github.com/Fyyre/UEFind)** — WinAPI tools for inspecting Unreal Engine processes.
 ---
 
 ### Research & Publications
