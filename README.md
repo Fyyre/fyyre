@@ -22,7 +22,6 @@ Principal Security Engineer & Low-Level Researcher specializing in Windows kerne
 ### Misc / Utilities
 *   **[Poor Man's FROST Defense](https://github.com/Fyyre/simple_frost_mitigation)** — Chrome OPFS RAM Mitigation.
 *   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64 / VEX / EVEX / XOP instruction length disassembler (maintenance port).
-*   **[bdo_extender](https://github.com/Fyyre/bdo_extender)** — this black box. you think I joke?
 ---
 
 ### Research & Publications
