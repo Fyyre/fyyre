@@ -36,6 +36,7 @@ Principal Security Engineer & Low-Level Researcher specializing in Windows kerne
 *   **[proxy_dll](https://github.com/Fyyre/proxy_dll) — CRT initialization trick for hooking protected applications**
 *   **[ntdll.h](https://github.com/Fyyre/ntdll) — Clean, minimal Windows NT headers (when Windows.h became too heavy)**
 *   **[lin2lua_ct2_3](https://github.com/Fyyre/lin2lua_ct2_3) — Legacy Lineage II CT2.3 Lua Script control**
+*   **[bdo_extender](https://github.com/Fyyre/bdo_extender) — Archival snapshot of my BDO Client Extender**
 *   **[old site](https://github.com/Fyyre/oldsite) — Archived articles and notes from the original fyyre.net**
 ---
 
