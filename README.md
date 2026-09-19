@@ -22,7 +22,7 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 ---
 
 ### Process Introspection
-*	**[UEFind](https://github.com/Fyyre/UEFind)** — Windows x64 WinAPI tools for inspecting Unreal Engine processes*
+*	**[UEFind](https://github.com/Fyyre/UEFind)** — Windows x64 WinAPI tools for inspecting Unreal Engine processes.
 ---
 
 ### Misc / Utilities
