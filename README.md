@@ -1,14 +1,16 @@
 # James (Fyyre)
-# Kernel & Reverse Engineering Researcher
+# Kernel Internals, Reverse Engineering & AI Observability
 
-Principal Security Engineer & Low-Level Researcher specializing in Windows kernel internals, reverse engineering, binary analysis, and anti-tamper mechanics.
+Security Architect & Low-Level Researcher specializing in Windows kernel internals, reverse engineering, anti-tamper mechanics, and LLM behavioral telemetry.
 
 ---
 
 ### Core Focus Areas
-*   **Windows Kernel Internals & Drivers:** WDM/KMDF driver development, PatchGuard/DSE subversion analysis, bootloader mechanics, and kernel-mode execution guarding.
-*   **Reverse Engineering & Binary Analysis:** Static/dynamic analysis (WinDbg, IDA Pro), x86_64/ARM64 assembly, symbol resolution, and binary patching/unpacking.
-*   **Anti-Tamper & Subversion Mechanisms:** Analyzing and designing runtime execution isolation, inline hooking detection, anti-debugging, and memory integrity verification.
+*   **Windows Kernel Internals & Drivers:** WDM/KMDF, PatchGuard/DSE analysis, bootloader mechanics, kernel-mode execution guarding.
+*   **Reverse Engineering & Binary Analysis:** WinDbg / IDA, x86_64 (ARM64 as needed), symbol resolution, live process and binary recovery.
+*   **Anti-Tamper & Runtime Isolation:** Hook detection, anti-debug, memory integrity, execution-state isolation in high-concurrency clients.
+*   **AI Observability:** Telemetry on inference-time regime deviation — activations, attention, KV cache, routing — same diagnostic posture as kernel tracing, applied to black-box models.
+---
 
 ### Collaborative Projects
 *   **[UPGDSED](https://github.com/hfiref0x/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
@@ -19,9 +21,13 @@ Principal Security Engineer & Low-Level Researcher specializing in Windows kerne
 *   **[Noesis Tension](https://github.com/Fyyre/noesis-tension)** — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
 ---
 
+### Process Introspection
+*	**[UEFind](https://github.com/Fyyre/UEFind)** — Windows x64 WinAPI tools for inspecting Unreal Engine processes*
+---
+
 ### Misc / Utilities
-*   **[Poor Man's FROST Defense](https://github.com/Fyyre/simple_frost_mitigation)** — Chrome OPFS RAM Mitigation.
-*   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64 / VEX / EVEX / XOP instruction length disassembler (maintenance port).
+*	**[XDE 2.0](https://github.com/Fyyre/xde)** — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
+*   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64, VEX, EVEX, XOP instruction length disassembler (maintenance port).
 *   **[secrep](https://github.com/Fyyre/secrep)** — rebuilding sections in unpacked binaries.
 ---
 
@@ -44,4 +50,4 @@ Principal Security Engineer & Low-Level Researcher specializing in Windows kerne
 ### Connect
 *   **Email:** fyyre [at] fyyre [dot] net
 *   **Security:** [PGP Key](https://gist.github.com/Fyyre/026832c098316b6a9a29352a4e022895)
-*   *Open to serious technical collaborations in Windows Internals and reverse code engineering.*
+*   *Open to serious technical collaborations in Systems Internals and reverse code engineering.*
