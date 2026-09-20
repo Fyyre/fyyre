@@ -19,6 +19,7 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 
 ### AI Observability
 *   **[Noesis Tension](https://github.com/Fyyre/noesis-tension)** — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
+*   **[Noesis](https://github.com/Fyyre/noesis)** — A lightweight toolkit for inspecting transformer internals through residual traces, drift metrics, and token-level activation deltas.
 ---
 
 ### Process Introspection
