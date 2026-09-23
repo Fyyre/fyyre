@@ -13,7 +13,7 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 ---
 
 ### Collaborative Projects
-*   **[UPGDSED](https://github.com/hfiref0x/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
+*   **[UPGDSED](https://github.com/Fyyre/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
 *   **[DrvMon](https://github.com/Fyyre/Drvmon)** — Advanced real-time kernel-mode driver monitoring utility (Created with [@hfiref0x](https://github.com/hfiref0x)).
 ---
 
