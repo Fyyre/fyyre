@@ -27,9 +27,10 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 ---
 
 ### Misc / Utilities
-*	**[XDE 2.0](https://github.com/Fyyre/xde)** — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
+*   **[XDE 2.0](https://github.com/Fyyre/xde)** — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
 *   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64, VEX, EVEX, XOP instruction length disassembler (maintenance port).
 *   **[secrep](https://github.com/Fyyre/secrep)** — rebuilding sections in unpacked binaries.
+*   **[grok-chat-saver](https://github.com/Fyyre/grok-chat-saver)** — Save complete Grok chats as markdown
 ---
 
 ### Research & Publications
