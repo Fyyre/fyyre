@@ -23,12 +23,15 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 ---
 
 ### Process Introspection
-*	**[UEFind](https://github.com/Fyyre/UEFind)** — Windows x64 WinAPI tools for inspecting Unreal Engine processes.
+*	**[UEFind](https://github.com/Fyyre/UEFind)** — a basic Windows x64 WinAPI toolset for inspecting Unreal Engine processes
+---
+
+### Disasm engines
+*   **[XDE 2.0](https://github.com/Fyyre/xde)** — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
+*   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64, VEX, EVEX, XOP instruction length disassembler (maintenance port).
 ---
 
 ### Misc / Utilities
-*   **[XDE 2.0](https://github.com/Fyyre/xde)** — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
-*   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64, VEX, EVEX, XOP instruction length disassembler (maintenance port).
 *   **[secrep](https://github.com/Fyyre/secrep)** — rebuilding sections in unpacked binaries.
 *   **[sxscomp](https://github.com/Fyyre/sxscomp)** — Compares the component store of two Windows installations
 *   **[grok-chat-saver](https://github.com/Fyyre/grok-chat-saver)** — Save complete Grok chats as markdown
@@ -36,9 +39,9 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 
 ### Research & Publications
 *   **[Thinking Like a Reverse Engineer About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
-*   **[NOESIS: Phase I](https://zenodo.org/records/17917279) — On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth**
-*   **[NOESIS: Phase II](https://zenodo.org/records/18141914) — From Ontology to Observability: An Architecture for Epistemic Regime Detection**
-*   **[NOESIS Tension](https://zenodo.org/records/19457642) — Telemetry-Driven Taxonomy of Prompt-Induced Representational Pressures in Large Language Models**
+*   **NOESIS: Phase I** — On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)
+*   **NOESIS: Phase II** — From Ontology to Observability: An Architecture for Epistemic Regime Detection ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)
+*   **NOESIS Tension** — Taxonomy of Prompt-Induced Representational Pressures in Large Language Models ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19457642.svg)
 ---
 
 ### Historical Projects
