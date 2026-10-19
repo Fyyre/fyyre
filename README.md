@@ -17,6 +17,13 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 *   **[DrvMon](https://github.com/Fyyre/Drvmon)** — Advanced real-time kernel-mode driver monitoring utility (Created with [@hfiref0x](https://github.com/hfiref0x)).
 ---
 
+### Research
+*   **[Thinking Like a Reverse Engineer About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
+*   **[symbolic-ergodeviation](https://github.com/Fyyre/symbolic-ergodeviation)** — Spectral drift detection on discrete telemetry
+*   **NOESIS: Phase I** — Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)
+*   **NOESIS: Phase II** — Architecture for Epistemic Regime Detection ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)
+---
+
 ### AI Observability
 *   **[Noesis Tension](https://github.com/Fyyre/noesis-tension)** — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
 *   **[Noesis](https://github.com/Fyyre/noesis)** — A lightweight toolkit for inspecting transformer internals through residual traces, drift metrics, and token-level activation deltas.
@@ -37,12 +44,6 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 *   **[grok-chat-saver](https://github.com/Fyyre/grok-chat-saver)** — Save complete Grok chats as markdown
 ---
 
-### Research & Publications
-*   **[Thinking Like a Reverse Engineer About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
-*   **NOESIS: Phase I** — Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)
-*   **NOESIS: Phase II** — Architecture for Epistemic Regime Detection ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)
----
-
 ### Historical Projects
 *   **[Kernel Detective](https://github.com/Fyyre/kerneldetective) — Early anti-rootkit / kernel introspection framework (ARK-era tool)**
 *   **[proxy_dll](https://github.com/Fyyre/proxy_dll) — CRT initialization trick for hooking protected applications**
@@ -55,4 +56,4 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 ### Connect
 *   **Email:** fyyre [at] fyyre [dot] net
 *   **Security:** [PGP Key](https://gist.github.com/Fyyre/026832c098316b6a9a29352a4e022895)
-*   *Open to serious technical collaborations in Systems Internals and reverse code engineering.*
+*   *Open to __serious technical collaborations__ in Systems Internals and reverse code engineering.*
