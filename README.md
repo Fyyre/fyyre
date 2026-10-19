@@ -19,7 +19,9 @@ Security Architect & Low-Level Researcher specializing in Windows kernel interna
 
 ### Research
 *   **[Thinking Like a Reverse Engineer About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
-*   **[symbolic-ergodeviation](https://github.com/Fyyre/symbolic-ergodeviation)** — Spectral drift detection on discrete telemetry
+  
+*   **[`libergodev`](https://github.com/Fyyre/libergodev)** — Ring-0 safe, integer-only `O(1)` C99 telemetry engine (`2.18 ns/event`) for detecting low-and-slow execution drift and covert polling loops. Implements **Symbolic Ergodeviation**—separating structured sub-manifold anomalies from benign scheduler/counter jitter at 450M+ events/sec.
+
 *   **NOESIS: Phase I** — Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)
 *   **NOESIS: Phase II** — Architecture for Epistemic Regime Detection ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)
 ---
