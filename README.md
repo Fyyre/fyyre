@@ -1,57 +1,71 @@
 # James (Fyyre)
-# Kernel Internals, Reverse Engineering & AI Observability
+
+### Kernel Internals, Reverse Engineering & AI Observability
 
 Security Architect & Low-Level Researcher specializing in Windows kernel internals, reverse engineering, anti-tamper mechanics, and LLM behavioral telemetry.
 
 ---
 
 ### Core Focus Areas
+
 *   **Windows Kernel Internals & Drivers:** WDM/KMDF, PatchGuard/DSE analysis, bootloader mechanics, kernel-mode execution guarding.
 *   **Reverse Engineering & Binary Analysis:** WinDbg / IDA, x86_64 (ARM64 as needed), symbol resolution, live process and binary recovery.
 *   **Anti-Tamper & Runtime Isolation:** Hook detection, anti-debug, memory integrity, execution-state isolation in high-concurrency clients.
-*   **AI Observability:** Telemetry on inference-time regime deviation — activations, attention, KV cache, routing — same diagnostic posture as kernel tracing, applied to black-box models.
+*   **AI Observability:** Telemetry on inference-time regime deviation — activations, attention, KV cache, routing — applying the same diagnostic posture as kernel tracing to black-box models.
+
 ---
 
 ### Collaborative Projects
-*   **[UPGDSED](https://github.com/Fyyre/UPGDSED)** — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
-*   **[DrvMon](https://github.com/Fyyre/Drvmon)** — Advanced real-time kernel-mode driver monitoring utility (Created with [@hfiref0x](https://github.com/hfiref0x)).
+
+*   [-] [**UPGDSED**](https://github.com/Fyyre/UPGDSED) — Universal PatchGuard and Driver Signature Enforcement Disable (Co-creator with [@hfiref0x](https://github.com/hfiref0x)).
+*   [-] [**DrvMon**](https://github.com/Fyyre/Drvmon) — Advanced real-time kernel-mode driver monitoring utility (Created with [@hfiref0x](https://github.com/hfiref0x)).
+
 ---
 
-### Research
-*   **[Thinking Like a Reverse Engineer About Neural Networks](https://github.com/Fyyre/rce_ai_ml)** — Bridging the gap between reverse engineering and AI.
-  
-*   **[libergodev](https://github.com/Fyyre/libergodev)** — Ring-0 safe, integer-only `O(1)` C99 telemetry engine (`2.72 ns/event`, 368M events/s) for detecting low-and-slow execution drift and covert polling loops.  Implements Symbolic Ergodeviation: separating structured sub-manifold anomalies from benign scheduler/counter jitter up to 137x faster than sliding-window rescans.
+### Research & Architecture
 
-*   **NOESIS: Phase I** — Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)
-*   **NOESIS: Phase II** — Architecture for Epistemic Regime Detection ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)
+*   [>] [**Thinking Like a Reverse Engineer About Neural Networks**](https://github.com/Fyyre/rce_ai_ml) — Bridging the gap between reverse engineering and AI.
+*   [>] [**libergodev**](https://github.com/Fyyre/libergodev) — Ring-0 safe, integer-only `O(1)` C99 telemetry engine (`2.72 ns/event`, 368M events/s) for detecting low-and-slow execution drift and covert polling loops. Implements Symbolic Ergodeviation: separating structured sub-manifold anomalies from benign scheduler/counter jitter up to 137x faster than sliding-window rescans.
+*   [>] **NOESIS: Phase I** — Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth 
+*   [>] **NOESIS: Phase II** — Architecture for Epistemic Regime Detection 
+
 ---
 
 ### AI Observability
-*   **[Noesis Tension](https://github.com/Fyyre/noesis-tension)** — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
-*   **[Noesis](https://github.com/Fyyre/noesis)** — A lightweight toolkit for inspecting transformer internals through residual traces, drift metrics, and token-level activation deltas.
+
+*   [#] [**Noesis Tension**](https://github.com/Fyyre/noesis-tension) — A telemetry-based diagnostic tool for analyzing internal behavioral regimes of large language models during inference.
+*   [#] [**Noesis**](https://github.com/Fyyre/noesis) — A lightweight toolkit for inspecting transformer internals through residual traces, drift metrics, and token-level activation deltas.
+
 ---
 
-### Disasm engines
-*   **[XDE 2.0](https://github.com/Fyyre/xde)** — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
-*   **[LDASM64](https://github.com/Fyyre/LDASM64)** — x86-64, VEX, EVEX, XOP instruction length disassembler (maintenance port).
+### Disassembly Engines
+
+*   [x] [**XDE 2.0**](https://github.com/Fyyre/xde) — z0mbie's eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP.
+*   [x] [**LDASM64**](https://github.com/Fyyre/LDASM64) — x86-64, VEX, EVEX, XOP instruction length disassembler (maintenance port).
+
 ---
 
-### Misc / Utilities
-*   **[secrep](https://github.com/Fyyre/secrep)** — rebuilding sections in unpacked binaries.
-*   **[sxscomp](https://github.com/Fyyre/sxscomp)** — Compares the component store of two Windows installations
-*   **[grok-chat-saver](https://github.com/Fyyre/grok-chat-saver)** — Save complete Grok chats as markdown
+### Utilities & Misc
+
+*   [+] [**secrep**](https://github.com/Fyyre/secrep) — Rebuilding sections in unpacked binaries.
+*   [+] [**sxscomp**](https://github.com/Fyyre/sxscomp) — Compares the component store of two Windows installations.
+*   [+] [**grok-chat-saver**](https://github.com/Fyyre/grok-chat-saver) — Save complete Grok chats as markdown.
+
 ---
 
 ### Historical Projects
-*   **[Kernel Detective](https://github.com/Fyyre/kerneldetective) — Early anti-rootkit / kernel introspection framework (ARK-era tool)**
-*   **[proxy_dll](https://github.com/Fyyre/proxy_dll) — CRT initialization trick for hooking protected applications**
-*   **[ntdll.h](https://github.com/Fyyre/ntdll) — Clean, minimal Windows NT headers (when Windows.h became too heavy)**
-*   **[lin2lua_ct2_3](https://github.com/Fyyre/lin2lua_ct2_3) — Legacy Lineage II CT2.3 Lua Script control**
-*   **[bdo_extender](https://github.com/Fyyre/bdo_extender) — Archival snapshot of my BDO Client Extender**
-*   **[old site](https://github.com/Fyyre/oldsite) — Archived articles and notes from the original fyyre.net**
+
+*   [~] [**Kernel Detective**](https://github.com/Fyyre/kerneldetective) — Early anti-rootkit / kernel introspection framework (ARK-era tool).
+*   [~] [**proxy_dll**](https://github.com/Fyyre/proxy_dll) — CRT initialization trick for hooking protected applications.
+*   [~] [**ntdll.h**](https://github.com/Fyyre/ntdll) — Clean, minimal Windows NT headers (when Windows.h became too heavy).
+*   [~] [**lin2lua_ct2_3**](https://github.com/Fyyre/lin2lua_ct2_3) — Legacy Lineage II CT2.3 Lua Script control.
+*   [~] [**bdo_extender**](https://github.com/Fyyre/bdo_extender) — Archival snapshot of my BDO Client Extender.
+*   [~] [**old site**](https://github.com/Fyyre/oldsite) — Archived articles and notes from the original fyyre.net.
+
 ---
 
 ### Connect
+
 *   **Email:** fyyre [at] fyyre [dot] net
 *   **Security:** [PGP Key](https://gist.github.com/Fyyre/026832c098316b6a9a29352a4e022895)
-*   *Open to __serious technical collaborations__ in Systems Internals and reverse code engineering.*
+*   *Open to **serious technical collaborations** in Systems Internals and reverse code engineering.*
