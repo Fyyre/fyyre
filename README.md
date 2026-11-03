@@ -1,17 +1,15 @@
 # James (Fyyre)
 
-### Kernel Internals, Reverse Engineering & AI Observability
-
-Security Architect & Low-Level Researcher specializing in Windows kernel internals, reverse engineering, anti-tamper mechanics, and LLM behavioral telemetry.
+### Reverse Engineer & Kernel Developer | Dismantling Anti-Tamper & Building Deterministic Telemetry
 
 ---
 
 ### Core Focus Areas
 
 *   **Windows Kernel Internals & Drivers:** WDM/KMDF, PatchGuard/DSE analysis, bootloader mechanics, kernel-mode execution guarding.
-*   **Reverse Engineering & Binary Analysis:** WinDbg / IDA, x86_64 (ARM64 as needed), symbol resolution, live process and binary recovery.
-*   **Anti-Tamper & Runtime Isolation:** Hook detection, anti-debug, memory integrity, execution-state isolation in high-concurrency clients.
-*   **AI Observability:** Telemetry on inference-time regime deviation — activations, attention, KV cache, routing — applying the same diagnostic posture as kernel tracing to black-box models.
+*   **Reverse Engineering & Binary Analysis:** WinDbg / IDA, x86_64 (ARM64 as needed), symbol recovery, live process and binary analysis.
+*   **Anti-Tamper Analysis & Defeat:** Hook detection, anti-debug, memory integrity, execution-state isolation.
+*   **AI Observability:** Inference-time regime telemetry - activations, attention, KV cache, routing - using the same diagnostic methods as kernel tracing.
 
 ---
 
